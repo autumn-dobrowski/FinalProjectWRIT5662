@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="copyright_context">
+    <title>Copyright Protections</title>
+    <conbody>
+        <p>Copyright law protects a copyrighted work for the following durations:</p>
+        <ul id="ul_ilt_hzg_pdc">
+            <li>The life of the author plus 70 years OR</li>
+            <li>95 years from the date of publication OR</li>
+            <li>120 years from the date of creation<fn>Whichever occurs first.</fn></li>
+        </ul>
+        <p>During this time, the holder receives the following exclusive rights:</p>
+        <ul>
+            <li>Right to reproduce the work.</li>
+            <li>Licensing rights. </li>
+            <li>Right to produce derivative works.</li>
+            <li>Right to distribute copies of the work to the public by sale OR transfer ownership
+                for a given period of time determined by the holder</li>
+            <li>Right to display and perform work publicly.</li>
+        </ul>
+        <p>In order to prove infringement, the holder must:</p>
+        <ul>
+            <li>Prove the defendant had access to the copyrighted work in question.</li>
+            <li>Prove that the two works in question are substantially similar.</li>
+        </ul>
+        <fig id="fig_nfj_ppm_pdc">
+            <title>The Copyright Symbol</title>
+            <image placement="break" href="copyright_symbol.png" width="200" height="200"
+                align="center" id="image_ofj_ppm_pdc">
+                <alt>Black, bold-faced, lowercase letter “C” surrounded by a black circle.</alt>
+            </image>
+        </fig>
+        <p>Statutory damages typically range from $750 to $30,000, however, if the infringement is
+            determined to be willful, damages can reach up to $150,000. Traditionally, those who
+            hold a copyright have faced the burden of protecting their copyrighted work, signing on
+            for such a responsibility when they submit it to be copyrighted. Copyright laws are
+                <keyword>tort level</keyword>, or civic rather than criminal, and exist between the
+            author and the infringing party. Criminal violations do exist for copyright, however,
+            this usually is a case of mass production and is a rare occurrence. While copyright
+            often does the necessary job of protecting a holder's livelihood, copyright holders must
+            remain vigilant about their copyrighted work, as they are the party that initiates any
+            legal action. This burden of vigilance, however, creates a balance between those who
+            hold copyright and those who consume copyrighted content. Moreover, copyright law is
+            often difficult to litigate and proceedings are often lengthy, taking months or years to
+            adjudicate. Due to this lengthy process, legal fees often add up, outweighing the
+            benefit of litigation. Consequently, the holder is met with the decision of whether or
+            not moving forward with a violation is worth the time and money. However, without at
+            least some of these barriers in place, the holder may gain too much power, exploiting
+            the actions of the infringer in order to gain an independent revenue stream.</p>
+    </conbody>
+</concept>

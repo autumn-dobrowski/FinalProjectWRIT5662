@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="consulted_sources">
+    <title>Consulted Sources</title>
+    <shortdesc>The following are sources consulted in compiling this policy brief.</shortdesc>
+    <refbody>
+        <example>
+            <p>Hashimoto, K. &amp; Samuelson, P. (2018). Scholarly Concerns About a Proposed
+                Copyright Small Claims Tribunal. <i>Berkeley Technology Law Journal 33(3)</i>,
+                689-710.</p>
+            <p>Konish, Lorie. (2021, January 11). Just 39% of Americans could pay for a $1,000
+                emergency expense. CNBC.</p>
+            <p>Sag, Matthew. (2015). Copyright Trolling, An Enrolling Study. Iowa Law Review 100(3). </p>
+            <p>Stewart, Daxton. (2022, April 20). The CASE Act. Minneapolis, MN. Lecture. </p>
+            <p>U.S. Copyright Office. Copyright Small Claims and the Copyright Claims Board.
+                Copyright.gov. </p>
+        </example>
+    </refbody>
+</reference>

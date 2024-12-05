@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="restricting_mdjd_litigation">
+    <title>Restricting MDJD Litigation</title>
+    <conbody>
+        <p>As it currently stands, joinder (the joining of defendants) in copyright litigation
+            requires common questions of fact or law, and the defendant’s actions must be found to
+            be arising out of the same transaction, occurrence, or series of transactions or
+            occurrences. Torrent sites segment large files into smaller pieces that can be
+            downloaded in any order and pieced back together in a process known as “seeding,”
+            meaning it can be downloaded by several users simultaneously, known as the “swarm.” In
+            the past, MDJD litigation has often been allowed for instances of illegal downloading
+            because all swarm participants are found to be involved in the same series of
+            transactions or occurrences.</p>
+        <p>This allowance displays a fundamental misunderstanding of the way the internet operates.
+            One illegal downloader can be acting in California while another is downloading the same
+            file in Massachusetts. Sag specifies that a lower level of relatedness when allowing
+            joinder is what plaintiffs, and specifically copyright trolls, have come to favor.
+            Redefining the level of relatedness between defendants to mean those who have had direct
+            contact with one another and acted together in participating in the same swarm when
+            sharing files would decrease the frequency of MDJD litigation in instances of illegal
+            downloading, preventing holders from using the practice for exploitative purposes. </p>
+    </conbody>
+</concept>

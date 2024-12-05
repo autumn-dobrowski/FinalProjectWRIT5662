@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="copyright_trolling">
+    <title>Copyright Trolling</title>
+    <conbody>
+        <p><keyword>“Copyright trolling”</keyword> is when holders vigilantly sue small
+            infringements in order to get settlement money, prioritizing profit over fighting for
+            the integrity of their creative works. One notable example of this abuse is the actions
+            of Malibu Media, LLC. Malibu Media, an adult film producer, has garnered a reputation in
+            the world of copyright law for trolling, using third party platforms to post their own
+            content to torrent websites, tracking and trapping illegal downloaders. Malibu Media
+            then sues individual IP addresses as a John Doe, subpoenaing internet service providers
+            (ISPs) to reveal the identities behind each IP address. This practice, known as
+                <keyword>multiple defendant John Doe (MDJD) litigation</keyword>, accounts for over
+            43% of copyright lawsuits filed in 2013, and has drastically increased since the 2000’s.
+            Legal scholar, Matthew Sag explains it simply: <q>The economic viability of MDJD
+                litigation depends on suing as many defendants as possible in a single action to
+                keep costs low and leveraging the threat of statutory damages in order to maximize
+                the flow of settlement dollars.</q></p>
+    </conbody>
+</concept>

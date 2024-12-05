@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>The CASE Act and Copyright Abuse</title>
+    <topicref href="introduction.dita"/>
+    <topicref href="copyright_context.dita"/>
+    <topicref href="copyright_trolling.dita"/>
+    <topicref href="the_case_act.dita"/>
+    <topicref href="policy_alternatives.dita">
+        <topicref href="repealing_the_case_act.dita"/>
+        <topicref href="proceeding_with_the_case_act.dita"/>
+    </topicref>
+    <topicref href="policy_recommendations.dita">
+        <topicref href="maintaining_a_separate_tribunal_court.dita"/>
+        <topicref href="reassessing_damages_litigation_costs.dita"/>
+        <topicref href="opening_up_the_process_to_appeals.dita"/>
+        <topicref href="establishing_a_consumer_advocate_board.dita"/>
+        <topicref href="restricting_mdjd_litigation.dita"/>
+        <topicref href="safeguards_against_trolling.dita"/>
+    </topicref>
+    <topicref href="consulted_sources.dita">
+        <topicref href="images.dita"/>
+    </topicref>
+</map>

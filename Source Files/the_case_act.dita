@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="the_case_act">
+    <title>The CASE Act</title>
+    <conbody>
+        <p>The <keyword>Copyright Alternative Small-Claims Enforcement or the “CASE” Act</keyword>,
+            signed into law December 2020, and is estimated to go into full effect beginning June of
+            2022.</p> 
+        <p>The act creates a small-claims court within the United States Copyright Office known as
+            the Copyright Claims Board (CCB). The CCB is a three-member tribunal whose job is to
+            review claims and make a determination within 90 days, expediting the federal process
+            which can take months or even years. The CCB is expected to review claims of
+            infringement, claims for declaration of noninfringement (the issue of a legal statement
+            that affirms a party is not liable for infringement), and claims of misrepresentation
+            concerning DMCA takedown notices. Holders can file claims through the new CCB website
+            for around $100. They may ask for $15,000 in damages per infringed work, with damages
+            capped at $30,000. This system will be opt-in, meaning use of the CCB is not required.
+            If the defendant so chooses, they can proceed down the federal court path. The
+            literature of the bill itself and the newly minted CCB website tout a user-friendly
+            quality to the court — accessibility for the layman, who is not explicitly encouraged to
+            appear without representation, but is made aware that representation is not
+            necessary.</p>
+        <fig id="fig_rpn_drm_pdc">
+            <title>The Copyright Claims Board Logo</title>
+            <image placement="break" href="Screen%20Shot%202024-12-05%20at%201.04.42%20PM.png"
+                align="center" id="image_spn_drm_pdc">
+                <alt>Left-aligned seal featuring an eagle in the middle of a white letter
+                    &quot;C.&quot; Right-aligned white text on a navy background that reads
+                    &quot;CCB.gov Copyright Claims Board.&quot;</alt>
+            </image>
+        </fig>
+        <p>Where does the concern lie in appearing in court without legal representation, with
+            $30,000 on the line, in a system where holders need only pay $100 to file claims of
+            infringement? If the goal is to make copyright litigation more accessible, the CASE Act,
+            only does so for the holder. With the ever-increasing use of MDJD litigation, those who
+            want to make a few dollars on the side fishing for illegal downloaders can now do so for
+            cheap, racking up claims in order to shake down the consumer. If holders once found
+            profits daring the consumer to violate their copyright, this will only increase tenfold
+            under the CASE Act. Moreover, those who do so would certainly not risk appearing in
+            court without legal representation, leaving the defendant at a huge disadvantage when
+            facing the CCB should they be convinced by the Act’s rhetoric. The CCB’s determination
+            is final, leaving the defendant with no ability to appeal. While $30,000 is
+            significantly less than the willful infringement fine of $150,000, a CNBC article
+            published in 2021 states that only 39% of Americans can afford even a $1,000 unexpected
+            expense. Thirty thousand dollars in addition to all the accrued legal fees that come
+            with any form of litigation still has the potential to financially ruin the average
+            American citizen. With so many Americans willing to knowingly violate copyright, the
+            implementation of the CASE Act leaves the average one uninformed and at huge risk for
+            being exploited financially, positioning large holders to increase their profits through
+            settlement.</p>
+    </conbody>
+</concept>
